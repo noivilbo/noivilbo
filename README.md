@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Junior data analyst. I turn data into decisions with Python, SQL, Power BI and statistics.
+Junior Data Analyst. I turn data into decisions with Python, SQL, Power BI and statistics.
 
 ### Featured projects
 - **[Sales & Profitability Analysis](https://github.com/noivilbo/sales-profitability-analysis)**: 10,192 order lines; discounts above 20% generated a ~$136K net loss, and a regression check tests whether discounting explains the Central region's margin gap. Python, PostgreSQL, Power BI, statsmodels.
